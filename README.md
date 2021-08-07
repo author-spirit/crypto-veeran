@@ -1,9 +1,9 @@
 ## crypto-veeran
-###Malicious Website blockers using ML
+### Malicious Website blockers using ML
 
 For further Data Pre-Processing, I have removed irrelevant fields to make my data collection more concise.
 The reformed dataset contains 450,160 Rows & 3 Columns.
-###Labels :
+### Labels :
 URL – Combination of Benign and Malicious URLs
 LABEL – Two Classification – [Benign & Malicious]
 RESULT – Boolean; Benign (0), Malicious (1)
@@ -14,8 +14,8 @@ There are two separate data collection for training and testing
 Training dataset : 135048 rows 
 Testing dataset : 315112 rows
 
-##Model built by using Python
-###Libraries used:
+## Model built by using Python
+### Libraries used:
 1. Numpy – for n-dimensional array and numerical operations
 2. Pandas – Data manipulations and Data Analysis
 3. Seaborn, Matplotlib – plotting graphs and data visualization
